@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51453496772",
+    "firebase_url": "https://chattqu-e5a66.firebaseio.com",
+    "project_id": "chattqu-e5a66",
+    "storage_bucket": "chattqu-e5a66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51453496772:android:c7d57edc77c28bcff9a891",
+        "android_client_info": {
+          "package_name": "com.chatqu.chattqu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51453496772-ik06dihdn51s6ff5amsmv712r4o8ocr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHOiJ6m3YZlEFniX9qqM20-rbjr3O9Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51453496772-ik06dihdn51s6ff5amsmv712r4o8ocr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
